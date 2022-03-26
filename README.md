@@ -1,1 +1,1 @@
-# TCS-IoN
+# This is the project done for the TCS RIO 125 on the topic "Rank Features of a Smartphone - Build a Python Application to Classify and Rank Dataset". Here the main objective is to Rank the features of a Smartphone and to Build a model the rank and classify the dataset. It also uses the Machine Learning Concepts to rank the features of the Smartphone.
